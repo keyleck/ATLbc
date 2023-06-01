@@ -1,0 +1,12 @@
+{
+    "nombreEquipo": "Team Four",
+    "numeroEquipo": 4,
+    "integrantes": [
+        {
+            "nombre": "caleb",
+            "pais": "peru",
+            "hobby": "code",
+            "discorCode":"Noir#8237"
+        }
+    ]
+}
