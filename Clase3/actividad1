@@ -1,0 +1,28 @@
+{
+    "Nombre": "Next lang",
+    "Direccion": "calle principal 123 de la ciudad de Villa Carlos Paz",
+    "Cursos": [
+        {
+            "Nombre": "Ingles basico",
+            "Descripcion": "Este curso introductorio está diseñado para principiantes",
+            "Duracion": 4,
+            "Precio": 100
+        },
+        {
+            "Nombre": "Ingles Avanzado",
+            "Descripcion": "Este curso está diseñado para estudiantes avanzados",
+            "Duraccion": 20,
+            "Precio": 400
+        },
+        {
+            "Nombre": "Italiano basico",
+            "Descripcion": "Este curso introductorio está diseñado para principiantes",
+            "Duraccion": 5,
+            "Precio": 120
+        }
+    ],
+    "Telefonos": [
+        "156734756",
+        "154456234"
+    ]
+}
