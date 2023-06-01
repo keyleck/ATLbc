@@ -1,0 +1,114 @@
+{
+    "trivias": [
+        {
+            "enunciado": "¿Cuál es la capital de Francia?",
+            "opciones": [
+                "Madrid",
+                "Londres",
+                "París",
+                "Roma"
+            ],
+            "respuestaCorrecta": "París",
+            "explicacion": "París es la capital de Francia, conocida por su rica historia, su cultura y su arquitectura icónica, como la Torre Eiffel y el Louvre."
+        },
+        {
+            "enunciado": "¿Cuál es el río más largo de Europa?",
+            "opciones": [
+                "Río Danubio",
+                "Río Rin",
+                "Río Volga",
+                "Río Sena"
+            ],
+            "respuestaCorrecta": "Río Volga",
+            "explicacion": "El río Volga es el río más largo de Europa, con una longitud de aproximadamente 3,530 kilómetros. Fluye a través de Rusia y desemboca en el mar Caspio."
+        },
+        {
+            "enunciado": "¿Quién escribió el libro \"1984\"?",
+            "opciones": [
+                "George Orwell",
+                "Aldous Huxley",
+                "Ray Bradbury",
+                "Fyodor Dostoyevsky"
+            ],
+            "respuestaCorrecta": "George Orwell",
+            "explicacion": "El libro \"1984\" fue escrito por George Orwell y es considerada una obra distópica clásica que retrata un futuro totalitario y opresivo."
+        },
+        {
+            "enunciado": "¿Cuál es la montaña más alta del mundo?",
+            "opciones": [
+                "Monte Everest",
+                "Monte Kilimanjaro",
+                "Monte Aconcagua",
+                "Monte McKinley"
+            ],
+            "respuestaCorrecta": "Monte Everest",
+            "explicacion": "El Monte Everest, ubicado en la cordillera del Himalaya, es la montaña más alta del mundo con una altitud de 8,848 metros sobre el nivel del mar."
+        },
+        {
+            "enunciado": "¿Cuál es el país más grande del mundo por superficie?",
+            "opciones": [
+                "Rusia",
+                "Canadá",
+                "Estados Unidos",
+                "China"
+            ],
+            "respuestaCorrecta": "Rusia",
+            "explicacion": "Rusia es el país más grande del mundo por superficie, abarcando una vasta extensión de Europa del Este y Asia del Norte."
+        },
+        {
+            "enunciado": "¿En qué año se celebró la primera Copa Mundial de Fútbol?",
+            "opciones": [
+                "1930",
+                "1950",
+                "1970",
+                "1990"
+            ],
+            "respuestaCorrecta": "1930",
+            "explicacion": "La primera Copa Mundial de Fútbol se celebró en 1930 en Uruguay, y desde entonces se ha convertido en el torneo más importante de este deporte a nivel internacional."
+        },
+        {
+            "enunciado": "¿Cuál es la moneda oficial de Japón?",
+            "opciones": [
+                "Yen",
+                "Dólar",
+                "Euro",
+                "Libra esterlina"
+            ],
+            "respuestaCorrecta": "Yen",
+            "explicacion": "El yen es la moneda oficial de Japón, y es ampliamente utilizado en el país tanto en transacciones comerciales como en la vida diaria."
+        },
+        {
+            "enunciado": "¿Cuál es el elemento químico más liviano?",
+            "opciones": [
+                "Hidrógeno",
+                "Helio",
+                "Litio",
+                "Oxígeno"
+            ],
+            "respuestaCorrecta": "Hidrógeno",
+            "explicacion": "El hidrógeno es el elemento químico más liviano, con un solo protón en su núcleo y el número atómico 1 en la tabla periódica."
+        },
+        {
+            "enunciado": "¿Cuál es el instrumento musical de viento más antiguo?",
+            "opciones": [
+                "Flauta",
+                "Trompeta",
+                "Trombón",
+                "Saxofón"
+            ],
+            "respuestaCorrecta": "Flauta",
+            "explicacion": "La flauta es uno de los instrumentos musicales de viento más antiguos, con evidencias de su existencia desde la prehistoria."
+        },
+        {
+            "enunciado": "¿Quién pintó la obra \"La noche estrellada\"?",
+            "opciones": [
+                "Vincent van Gogh",
+                "Pablo Picasso",
+                "Leonardo da Vinci",
+                "Salvador Dalí"
+            ],
+            "respuestaCorrecta": "Vincent van Gogh",
+            "explicacion": "La obra \"La noche estrellada\" fue pintada por el artista holandés Vincent van Gogh y es considerada una de sus obras maestras más reconocidas."
+        }
+    ]
+}
